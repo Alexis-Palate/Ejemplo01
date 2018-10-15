@@ -10,6 +10,8 @@ package Paquete01;
  * @author USUARIO
  */
 public class Ejemplo1 {
+    int a;
+    String n;
     public static void main(String[] args) {
         //Hola Mundo :v
     }
